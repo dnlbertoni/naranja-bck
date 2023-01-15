@@ -1,0 +1,11 @@
+conxumos_tarjetas:
+-Cambiar fecha a varchar
+-cambiar plan a longitud de 100
+- sacar primary key de documento.
+
+pagos_de_clientes:
+-Sacar priomary key de documento
+-Cambiar fecha a varchar
+
+prestamos_nuevos
+-Sacar primary key

@@ -1,0 +1,30 @@
+version: "3"
+services:
+  api:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - ${API_PORT}:4200
+    restart: always
+    volumes:
+      - ./src:/app
+      - '/app/node_modules'
+    networks:
+      - code-network      
+
+  mongo:
+    image: mongo:4.4-bionic
+    ports:
+      - "27017:27017"
+    networks:
+      - code-network
+    volumes:
+      - mongo-data:/data/db      
+
+networks:
+    code-network:
+        driver: bridge
+volumes:
+  mongo-data:
+    driver: local        

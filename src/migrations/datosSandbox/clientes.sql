@@ -1,0 +1,54 @@
+CREATE TABLE clientes(
+   NDOC          INTEGER  NOT NULL
+  ,Nombre_comple VARCHAR(13) NOT NULL
+  ,Nro_Cliente   VARCHAR(11) NOT NULL
+);
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (730458,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (730458,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1451583,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1467318,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1467318,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1476221,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1484907,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1487887,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1487887,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1487887,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1487887,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1487887,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1590294,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1590294,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1774448,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1774481,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1774481,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (1774481,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2022367,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2321657,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2321657,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2321657,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2321836,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2333088,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2345076,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2345076,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2345076,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2345076,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2346074,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2346074,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2348305,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2350406,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2350406,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2350664,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2350813,'Nombre comple','Nro Cliente');
+INSERT INTO clientes(NDOC,Nombre_comple,Nro_Cliente) VALUES (2357719,'Nombre comple','Nro Cliente');
